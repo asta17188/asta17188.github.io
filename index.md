@@ -14,4 +14,3 @@ My GitHub page is https://github.com/asta17188/asta17188.github.io.git
 
 * Lab 7
 	Lab 7 part 2 was challenging because I had never played Blackjack, but once I knew how it worked it was really fun. I found it really enjoyable to try and figure out how to calculate the scores and how to assign different cards their respective values. Using functions and conditionals to accomplish this was a good way to test the skills we had learned. 
-
